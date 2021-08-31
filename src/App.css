@@ -14,23 +14,33 @@
    .title{
        font-weight: bolder;
        margin-bottom: 60px;
-       margin-left: 65px;
+       margin-left: 75px;
    }
-   .todo-form{
-       margin-left:
+   .todo-input{
+       border-radius: 5px;
    }
 
    .todolist{
-       
-       margin-top: 30px;
+       border-radius: 5px;
+       margin-top: 10px;
+       position: relative;
        display: flex;
        justify-content:space-between;
+       background: rgba(255, 255, 255, 0.2);
+       box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
        
     
    }
    .todos{
-       
-   }
+       font-weight: bolder;
+       padding: 5px 5px 5px 5px;
+    
+    }
    .todo-btn{
+       font-weight: bolder;
        border-radius: 5px;
+   }
+   .icon{
+       margin-top: 6px;
+       margin-right: 3px;
    }
