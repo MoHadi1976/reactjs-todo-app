@@ -1,0 +1,36 @@
+#root{
+    background-image: url("./image/Wall.jpg");
+    height: 100vh;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+   }
+   .container{
+    position: relative;
+    padding: 50px 60px 50px 60px;
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+   }
+   .title{
+       font-weight: bolder;
+       margin-bottom: 60px;
+       margin-left: 65px;
+   }
+   .todo-form{
+       margin-left:
+   }
+
+   .todolist{
+       
+       margin-top: 30px;
+       display: flex;
+       justify-content:space-between;
+       
+    
+   }
+   .todos{
+       
+   }
+   .todo-btn{
+       border-radius: 5px;
+   }
