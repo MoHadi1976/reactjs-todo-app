@@ -1,5 +1,3 @@
-import React, {useState} from 'react'
-import ToDoForm from './ToDoForm'
 import {RiCloseCircleLine} from "react-icons/ri"
 
 function ToDo({todos, removeTodo}) {
